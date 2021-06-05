@@ -9,7 +9,7 @@ https://cse110-lab10-kdyblie.canny.io/
 
 ## Links to two A / B test pages from Part 2
 
-https://kdyblie.github.io/Lab10/
+https://kdyblie.github.io/Lab10/index.html
 
 https://kdyblie.github.io/Lab10/secondSplit.html
 
