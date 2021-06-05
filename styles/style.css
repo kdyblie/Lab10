@@ -28,7 +28,13 @@ header {
   width: 100%;
   z-index: 999;
 }
-
+.dark-mode{
+  background-color: rgb(65, 3, 3);
+  color: white;
+}
+.dark{
+  background-color:rgb(61, 58, 58);
+}
 header img {
   position: absolute;
   right: 15px;
@@ -155,4 +161,5 @@ body.single-entry main {
 .double-column journal-entry {
   width: 100%;
 }
+
 /* Feature Flag End - Double Column */
