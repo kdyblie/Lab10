@@ -18,5 +18,5 @@ https://kdyblie.github.io/Lab10/secondSplit.html
 This split compares light mode and dark mode. For light mode, we left everything the same. For dark mode, we changed the colors of the backgrounds. The difference should be the colors when testing it.
 
 ## Screenshots from Part 3
-![Analytics](analytics.PNG)
-For some reason, while we could get the views/active user working, the events would not appear. This is even after going to office hours where they were unable to help us fix the problem.
+![Columns](col-analytic.PNG)
+![Colors](color-analytic.PNG)
