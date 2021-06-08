@@ -19,4 +19,4 @@ This split compares light mode and dark mode. For light mode, we left everything
 
 ## Screenshots from Part 3
 ![Columns](col-analytic.PNG)
-![Colors](color-analytic.PNG)
+![Colors](color-analytic.png)
